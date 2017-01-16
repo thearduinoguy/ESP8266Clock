@@ -19,8 +19,8 @@ long lastSecond = millis();
 String hours, minutes, seconds;
 int currentSecond, currentMinute, currentHour;
 
-char ssid[] = "Earthshine";  //  your network SSID (name)
-char pass[] = "DoAndroidsDreamOfElectricSheep2016";       // your network password
+char ssid[] = "xxxx";  //  your network SSID (name)
+char pass[] = "xxxx";       // your network password
 
 const float UTC_OFFSET = 0;
 TimeClient timeClient(UTC_OFFSET);
